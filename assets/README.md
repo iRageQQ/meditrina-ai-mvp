@@ -9,7 +9,8 @@ Public gallery files (README order):
 5. `booking.png` — Mobile-first appointment selection and booking flow.
 6. `clinics.png` — Clinic discovery with city and specialty filtering.
 7. `map.jpg` — Map-based clinic discovery using the same clinic data source as the list view.
+8. `profile.png` — Profile and appointment management using fictional demo account data.
 
-`profile.png` is excluded from the public package until a sanitized version exists (no real name, phone, email, or identifiable appointment data).
+Screenshots use demo / sample data. Profile contact fields in `profile.png` are fictional MVP demo data.
 
 See `../SCREENSHOTS.md` for capture instructions.

@@ -1,16 +1,12 @@
 # Screenshots checklist
 
-Capture these screenshots on your iPhone, then save them into `assets/` with the **exact** file names below.
+Capture these **8** screenshots on your iPhone, then save them into `assets/` with the **exact** file names below.
 
 Tip: On iPhone, take a screenshot, then AirDrop / save the image to your computer and rename it.
 
-Before every capture:
+Screenshots in this portfolio use **demo / sample data**, including a fictional profile account for booking-contact fields.
 
-- Use **demo / test** data only.
-- Hide or avoid any real personal details.
-- Do **not** show email addresses, phone numbers, full names, passwords, API keys, or real appointment patient info.
-
-`splash.png` is intentionally included in the public gallery as branding / product presentation.
+`splash.png` is intentionally included as branding / product presentation.
 
 ---
 
@@ -46,8 +42,6 @@ Before every capture:
 
 **Caption:** Non-diagnostic routing toward an appropriate specialty and available clinic.
 
-**Note:** Source file may be named `specialist-search.png` before rename; publish as `specialist-results.png`.
-
 ---
 
 ### 5. `booking.png`
@@ -66,35 +60,27 @@ Before every capture:
 
 ---
 
-### 7. `map.jpg` (or `map.png`)
+### 7. `map.jpg`
 
 **Open:** Clinic map.
 
 **Caption:** Map-based clinic discovery using the same clinic data source as the list view.
 
+**Note:** The published map asset is `map.jpg` (not `map.png`).
+
 ---
 
-### 8. `profile.png` (optional — privacy gated)
+### 8. `profile.png`
 
 **Open:** Profile screen.
 
-**Caption:** Profile and appointment management.
+**Caption:** Profile and appointment management using fictional demo account data.
 
-**Do not publish `profile.png` if it contains any of the following:**
-
-- a real person’s name
-- phone number
-- email address
-- appointment details that could identify someone
-- any other personal information
-
-If it fails the privacy check, leave it out of the README gallery and out of the public repository.
+**Note:** Profile contact fields shown in the public portfolio are fictional demo data created for the MVP — not a real person’s information.
 
 ---
 
-## Current publish status
-
-Included in the public package:
+## Published gallery files
 
 - `splash.png`
 - `home.png`
@@ -103,7 +89,4 @@ Included in the public package:
 - `booking.png`
 - `clinics.png`
 - `map.jpg`
-
-Excluded:
-
-- `profile.png` — contains identifiable contact fields (name, phone, email); do not publish until replaced with a sanitized screenshot.
+- `profile.png`

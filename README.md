@@ -172,7 +172,7 @@ No database credentials, project URLs, or API keys are included in this reposito
 
 ## Screenshots
 
-Capture guide: [SCREENSHOTS.md](./SCREENSHOTS.md).
+Screenshots show the MVP UI with **demo / sample data** (including a fictional profile account). Capture guide: [SCREENSHOTS.md](./SCREENSHOTS.md).
 
 ![Meditrina branded mobile intro screen.](assets/splash.png)
 
@@ -187,6 +187,8 @@ Capture guide: [SCREENSHOTS.md](./SCREENSHOTS.md).
 ![Clinic discovery with city and specialty filtering.](assets/clinics.png)
 
 ![Map-based clinic discovery using the same clinic data source as the list view.](assets/map.jpg)
+
+![Profile and appointment management using fictional demo account data.](assets/profile.png)
 
 ---
 
@@ -265,10 +267,12 @@ Potential future work (not completed):
 
 This public repository contains:
 
-- no patient data;
+- no real patient data;
 - no authentication credentials;
 - no API keys;
 - no production database dump;
 - no proprietary application source code.
+
+Screenshots use demo / sample clinic and booking data. Any profile contact fields shown are **fictional demo account data** created for the MVP, not information about a real person.
 
 It is a documentation-only portfolio package describing the private Meditrina MVP.
